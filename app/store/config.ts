@@ -18,9 +18,9 @@ export enum Theme {
 
 export const DEFAULT_CONFIG = {
   submitKey: SubmitKey.CtrlEnter as SubmitKey,
-  avatar: "1f603",
+  avatar: "1f977",
   fontSize: 14,
-  theme: Theme.Auto as Theme,
+  theme: Theme.Dark as Theme,
   tightBorder: false,
   sendPreviewBubble: true,
   sidebarWidth: 300,
